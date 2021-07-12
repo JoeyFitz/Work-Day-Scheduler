@@ -31,6 +31,7 @@ body {
   }
   
   .row {
+      /* added a default background color to this class of input blocks */
     background-color: gainsboro;
     white-space: pre-wrap;
     height: 80px;
