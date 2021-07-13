@@ -25,7 +25,7 @@ Visit URL linked below
 W3 Schools and Moment.js docs
 
 Screenshot of the deployed application:
-
+<img width="1396" alt="Screen Shot 2021-07-13 at 10 32 31 AM" src="https://user-images.githubusercontent.com/50683782/125499024-7fd87546-6880-44e7-a93d-447de57fe2f0.png">
 
 URL of the deployed application --> https://joeyfitz.github.io/Work-Day-Scheduler/index.html
 
